@@ -2,10 +2,10 @@
 
 ## Ingrédients
 
-* 6.0	cl	jus d'orange
-* 1.5	cl	vermouth blanc (liqueur de vin)
-* 1.5	cl	vermouth rouge (liqueur de vin)
-* 3.0	cl	gin (dry)
+* 3.0	cl	jus d'orange
+* 1.0	cl	vermouth blanc (liqueur de vin)
+* 2.0	cl	vermouth rouge (liqueur de vin)
+* 1.0	cl	gin (dry)
 
 ## Réalisation 
 
